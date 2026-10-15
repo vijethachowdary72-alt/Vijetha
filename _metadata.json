@@ -1,0 +1,110 @@
+{
+  "hash": "25f7057b",
+  "configHash": "55c853ff",
+  "lockfileHash": "df370e5f",
+  "browserHash": "0cbe3c84",
+  "optimized": {
+    "@supabase/supabase-js": {
+      "src": "../../@supabase/supabase-js/dist/index.mjs",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "341b2e1b",
+      "needsInterop": false
+    },
+    "canvas-confetti": {
+      "src": "../../canvas-confetti/dist/confetti.module.mjs",
+      "file": "canvas-confetti.js",
+      "fileHash": "92bd710d",
+      "needsInterop": false
+    },
+    "jspdf-autotable": {
+      "src": "../../jspdf-autotable/dist/jspdf.plugin.autotable.mjs",
+      "file": "jspdf-autotable.js",
+      "fileHash": "00b3f6ba",
+      "needsInterop": false
+    },
+    "jspdf": {
+      "src": "../../jspdf/dist/jspdf.es.min.js",
+      "file": "jspdf.js",
+      "fileHash": "fe74c4e2",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.mjs",
+      "file": "lucide-react.js",
+      "fileHash": "d67e36d7",
+      "needsInterop": false
+    },
+    "papaparse": {
+      "src": "../../papaparse/papaparse.min.js",
+      "file": "papaparse.js",
+      "fileHash": "1afc2b12",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "354985ac",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "27eb8c24",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "dd5b0c5c",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "018ca0f4",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "c666434c",
+      "needsInterop": true
+    },
+    "xlsx": {
+      "src": "../../xlsx/xlsx.mjs",
+      "file": "xlsx.js",
+      "fileHash": "3eca0fb5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "html2canvas-GxHYLXOn": {
+      "file": "html2canvas-GxHYLXOn.js",
+      "isDynamicEntry": true
+    },
+    "index.es-D38ic2N2": {
+      "file": "index.es-D38ic2N2.js",
+      "isDynamicEntry": true
+    },
+    "purify.es-BSEqxv49": {
+      "file": "purify.es-BSEqxv49.js",
+      "isDynamicEntry": true
+    },
+    "react-Bk9vEtng": {
+      "file": "react-Bk9vEtng.js",
+      "isDynamicEntry": false
+    },
+    "react-dom-f6U-7Wx1": {
+      "file": "react-dom-f6U-7Wx1.js",
+      "isDynamicEntry": false
+    },
+    "rolldown-runtime-Bk_YeHJf": {
+      "file": "rolldown-runtime-Bk_YeHJf.js",
+      "isDynamicEntry": false
+    },
+    "typeof-KEtdrNHU": {
+      "file": "typeof-KEtdrNHU.js",
+      "isDynamicEntry": false
+    }
+  }
+}
